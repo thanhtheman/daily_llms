@@ -1,0 +1,3 @@
+Prompt doesn't work well
+please identify the top stock mover, looking for the news that moved these stocks, and summarize these news to explain why they move the stock.
+Your answer must follow the following format: company name, percentage change and explanation
